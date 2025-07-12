@@ -131,3 +131,24 @@ This ensures each subgroup is fairly represented in the final sample of 300.
 
 ---
 
+## Question 6:
+A manufacturer of biscuits wants to do a sample survey about the popularity of milk-based biscuits. It plans to do a quantitative survey. The company classifies its customers based on gender (male / female) and age (5 to 10 years / 11 to 15 years) and customizes its designs accordingly. The company wants to do the study in only one city. The company wants to have a robust sample size with no compromises. What should be the minimum sample size?
+
+**Correct Answer:** 120
+
+### Reason:
+Their are 2 categories of customers: male and female.
+
+There are 2 age groups: 5 to 10 years and 11 to 15 years.
+
+- Total number of strata = 2 * 2 = 4
+- Minimum sample size = 4 * 30 = 120
+
+---
+
+## Question 7:
+The same company now decides to do a taste test for its milk biscuits among a random sample of children. The company decides that the key metric will be the liking of the overall taste measured on a 5 point scale from “do not like at all” to like very much”. The company wants to be 95% confident that the findings on the mean score on the 5 point scale is plus or minus 10% accurate. What should be the sample size?
+
+**Correct Answer:** 172
+
+### Reason:
